@@ -16,12 +16,12 @@ However, this metadata can pose privacy and security risks. This simple tool can
 
 ![Static Badge](https://img.shields.io/badge/Version-v1.0-blue)
 
-**Download the latest binary release from [here](https://github.com/TechWhizKid/ImageKleaner/releases/) or follow the steps bellow:**
+**Download the latest binary release from [here](https://github.com/8gudbits/ImageKleaner/releases/) or follow the steps bellow:**
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/TechWhizKid/ImageKleaner.git
+   git clone https://github.com/8gudbits/ImageKleaner.git
    ```
 
 2. **For Python** - **Install the required dependencies using pip:**
